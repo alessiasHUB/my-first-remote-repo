@@ -10,3 +10,4 @@ But you'll be able to read this on GitHub when we put it onto a GitHub remote!
 
 - New branch testing
 - 2nd test to new branch
+- Modified through nano AWS
